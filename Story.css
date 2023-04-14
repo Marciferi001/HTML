@@ -1,0 +1,47 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('Images/story.jpg');
+  }
+
+h3{
+    color: orange;
+    text-align: center;
+}
+
+h1{
+    color: orangered;
+    text-align: center;
+}
+
+a:link {
+    color: red;
+}
+  
+a:visited {
+    color: orangered;
+}
+  
+a:hover {
+    color: orange;
+}
+  
+a:active {
+    color: blue;
+}
+  
+header{
+    text-align: justify;
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.atlato{
+    background-color: black;
+    opacity: 45%;
+}

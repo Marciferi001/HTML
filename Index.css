@@ -1,0 +1,51 @@
+.center{
+  text-align: center;
+}
+
+h1{
+  color: orangered;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('Images/images_Index_backround.jpg');
+}
+
+iframe.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+
+.flex-container > div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: orangered;
+}
+
+a:hover {
+  color: orange;
+}
+
+a:active {
+  color: blue;
+}
+
+header{
+  text-align: justify;
+}
